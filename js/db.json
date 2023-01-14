@@ -1,0 +1,68 @@
+{
+  "questions": [
+    {
+      "a": "A definir le type du ficier html",
+      "b": "A indiquer la version du langage utilisé sur la page",
+      "c": "A indiquer qu'on ne peut écrire qu'en HTML sur cette page.",
+      "d": "A améliorer le référencement",
+      "correct": "b",
+      "question": "À quoi sert la balise <doctype> en HTML ?"
+    },
+    {
+      "a": "<heading>",
+      "b": "<h6>",
+      "c": "<head>",
+      "d": "<h1>",
+      "correct": "d",
+      "question": "Choisissez l'élément HTML correct pour le titre le plus grand :\r\n"
+    },
+    {
+      "a": "<br>",
+      "b": "<lb>",
+      "c": "<hr>",
+      "d": "break",
+      "correct": "a",
+      "question": "Quel est l'élément HTML correct pour insérer un saut de ligne ?"
+    },
+    {
+      "a": "<bg></bg>",
+      "b": "<background>yellow</background>",
+      "c": "<body style=\"background-color=yellow\">",
+      "d": "<body bg=\"yellow\">",
+      "correct": "c",
+      "question": "Quel est le code HTML correct pour ajouter une couleur d'arrière-plan ?"
+    },
+    {
+      "a": "<strong>",
+      "b": "<i>",
+      "c": "<b>",
+      "d": "<important>",
+      "correct": "c",
+      "question": "Choisissez le bon élément HTML pour définir le texte important"
+    },
+    {
+      "a": "<a href=\"url\" >",
+      "b": "<a href=\"url\" target=\"\">",
+      "c": "<a href=\"url\" target=\"new\">",
+      "d": "<a href=\"url\" target=\"_blank\">",
+      "correct": "d",
+      "question": "Comment pouvez-vous ouvrir un lien dans un nouvel onglet/navigateur ?"
+    },
+    {
+      "a": "l'adresse de la page est incorrecte",
+      "b": "que la page n'est pas sécurisée",
+      "c": "que la page demandée n'existe pas",
+      "d": "que la page a été transférée ou déplacée",
+      "correct": "c",
+      "question": "Que veut dire le code 404 ?"
+    },
+    {
+      "a": "1. <img  alt=\"Une image\">",
+      "b": "1. <img href=\"mon-image.jpg\" alt=\"Une image\">\"",
+      "c": "<img src=\"mon-image.jpg\" alt=\"Une image\">",
+      "d": "<img>src=\"mon-image.jpg\" alt=\"Une image\"</img>",
+      "correct": "c",
+      "question": "Laquelle de ces syntaxes est correcte ?"
+    }
+  ]
+}
